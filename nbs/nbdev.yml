@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ztsnb"
+  site-url: "https://szagar.github.io/ztsnb"
+  description: "zts, nb version"
+  repo-branch: main
+  repo-url: "https://github.com/szagar/ztsnb"
